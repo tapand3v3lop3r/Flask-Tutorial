@@ -42,5 +42,4 @@ Feel free to fork it, use the examples, or suggest improvements.
 
 ## ✨ Author
 **Tapan Padhi**  
-📌 Data Science & Machine Learning Engineer  
 🔗 [LinkedIn](https://linkedin.com/in/tapan-kumar-padhii-81b309252/) | [GitHub](https://github.com/tapand3v3lop3r)
